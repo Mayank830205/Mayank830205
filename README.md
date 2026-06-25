@@ -353,7 +353,7 @@ REST API built using Flask that fetches weather information and returns structur
 
 # 🐍 Contribution Snake
 
-> **Note:** This will work after adding the GitHub Actions workflow in Part 4.
+>
 
 <div align="center">
 
@@ -616,54 +616,6 @@ I'm always open to collaborating on exciting Data Engineering, Analytics, and Cl
 
 </div>
 
-# 🐍 .github/workflows/snake.yml
-
-Create the following file:
-
-.github/workflows/snake.yml
-
-Paste this code:
-
-
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Mayank830205
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push Snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
----
 
 # 📁 Recommended Repository Structure
 
