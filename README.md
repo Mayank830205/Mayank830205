@@ -163,8 +163,8 @@ My work sits at the intersection of **Python, SQL, AWS, ETL, analytics, and soft
       <h3>Road Accident Analysis Dashboard</h3>
       <p>A decision-oriented dashboard that surfaces casualty patterns, road conditions, time trends, and high-risk categories.</p>
       <p><img src="https://img.shields.io/badge/Power_BI-111827?style=flat-square&logo=powerbi&logoColor=F2C811" alt="Power BI" /> <img src="https://img.shields.io/badge/Excel-111827?style=flat-square&logo=microsoftexcel&logoColor=47A248" alt="Excel" /> <img src="https://img.shields.io/badge/Dashboard-111827?style=flat-square&logo=googleanalytics&logoColor=8B5CF6" alt="Dashboard" /></p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/road-accident-analysis"><img src="https://img.shields.io/badge/View_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="View road accident analysis code" /></a>
-      <a href="https://YOUR_GITHUB_USERNAME.github.io/road-accident-analysis/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Open road accident dashboard demo" /></a>
+      <a href="https://github.com/Mayank830205/road-accident-analysis"><img src="https://img.shields.io/badge/View_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="View road accident analysis code" /></a>
+      <a href="https://Mayank830205.github.io/road-accident-analysis/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Open road accident dashboard demo" /></a>
     </td>
   </tr>
   <tr>
@@ -173,16 +173,16 @@ My work sits at the intersection of **Python, SQL, AWS, ETL, analytics, and soft
       <h3>AI Personal Chef</h3>
       <p>A personalized recipe assistant that turns available ingredients and preferences into practical meal recommendations.</p>
       <p><img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=7AA2FF" alt="Python" /> <img src="https://img.shields.io/badge/AI-111827?style=flat-square&logo=openai&logoColor=8B5CF6" alt="Artificial Intelligence" /> <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white" alt="Flask" /></p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/ai-personal-chef"><img src="https://img.shields.io/badge/View_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="View AI Personal Chef code" /></a>
-      <a href="https://YOUR_GITHUB_USERNAME.github.io/ai-personal-chef/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Open AI Personal Chef demo" /></a>
+      <a href="https://github.com/Mayank830205/ai-personal-chef"><img src="https://img.shields.io/badge/View_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="View AI Personal Chef code" /></a>
+      <a href="https://Mayank830205.github.io/ai-personal-chef/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Open AI Personal Chef demo" /></a>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/projects/weather-api.svg" alt="Flask Weather API preview" width="100%" />
       <h3>Flask Weather API</h3>
       <p>A clean REST API that fetches and normalizes real-time weather data with predictable responses and error handling.</p>
       <p><img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/REST_API-111827?style=flat-square&logo=fastapi&logoColor=7AA2FF" alt="REST API" /> <img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" /></p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/flask-weather-api"><img src="https://img.shields.io/badge/View_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Flask Weather API code" /></a>
-      <a href="https://YOUR_GITHUB_USERNAME.github.io/flask-weather-api/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Open Flask Weather API demo" /></a>
+      <a href="https://github.com/Mayank830205/flask-weather-api"><img src="https://img.shields.io/badge/View_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Flask Weather API code" /></a>
+      <a href="https://github.com/Mayank830205.github.io/flask-weather-api/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Open Flask Weather API demo" /></a>
     </td>
   </tr>
 </table>
@@ -190,18 +190,18 @@ My work sits at the intersection of **Python, SQL, AWS, ETL, analytics, and soft
 ## GitHub analytics
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7AA2FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="Mayank's GitHub statistics" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Mayank830205&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7AA2FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="Mayank's GitHub statistics" />
   <img height="175" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=7AA2FF&fire=8B5CF6&currStreakLabel=7AA2FF&sideLabels=C9D1D9&dates=7D8590&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="Mayank's GitHub contribution streak" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=7AA2FF&text_color=C9D1D9&langs_count=8" alt="Mayank's most used languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Mayank830205&layout=compact&hide_border=true&bg_color=0D1117&title_color=7AA2FF&text_color=C9D1D9&langs_count=8" alt="Mayank's most used languages" />
 </div>
 
 ### Contribution graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=9FB7E9&line=7AA2FF&point=8B5CF6&area=true&area_color=3159B8&hide_border=true" alt="Mayank's GitHub contribution graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/Mayank830205&bg_color=0D1117&color=9FB7E9&line=7AA2FF&point=8B5CF6&area=true&area_color=3159B8&hide_border=true" alt="Mayank's GitHub contribution graph" width="100%" />
 </div>
 
 <details>
@@ -211,23 +211,23 @@ My work sits at the intersection of **Python, SQL, AWS, ETL, analytics, and soft
 ### GitHub trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Mayank's GitHub trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Mayank830205&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Mayank's GitHub trophies" width="100%" />
 </div>
 
 ### Contribution snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/Mayank830205/https://github.com/Mayank830205/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/Mayank830205/https://github.com/Mayank830205/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/https://github.com/Mayank830205/https://github.com/Mayank830205/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
   </picture>
 </div>
 
 ### WakaTime
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=7AA2FF&text_color=C9D1D9" alt="WakaTime coding activity" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=https://github.com/Mayank830205&layout=compact&hide_border=true&bg_color=0D1117&title_color=7AA2FF&text_color=C9D1D9" alt="WakaTime coding activity" />
 </div>
 
 </details>
@@ -314,14 +314,14 @@ My work sits at the intersection of **Python, SQL, AWS, ETL, analytics, and soft
 I’m open to internships, entry-level roles, collaborations, and thoughtful conversations around data analytics, data engineering, BI, cloud, and software development.
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say_hello-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+  <a href="https://www.linkedin.com/in/mayank-shringi/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:mayankshringi415@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
   <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-6D5DFB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" /></a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=4F78D1&label=PROFILE+VIEWS" alt="Profile visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=https://github.com/Mayank830205&style=flat-square&color=4F78D1&label=PROFILE+VIEWS" alt="Profile visitor count" />
   <p><sub>CLARITY · DATA QUALITY · USEFUL OUTCOMES</sub></p>
 </div>
