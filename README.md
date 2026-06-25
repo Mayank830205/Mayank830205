@@ -2,10 +2,7 @@
 
 <img src="assets/banner.png" width="100%" alt="Mayank Shringi Banner"/>
 
-<br><br>
-
-<img src="assets/profile.png" width="180" style="border-radius:50%;" alt="Mayank Shringi"/>
-
+<br>
 # Hi, I'm Mayank Shringi 👋
 
 ### Aspiring Data Analyst | Data Engineer
@@ -616,41 +613,4 @@ I'm always open to collaborating on exciting Data Engineering, Analytics, and Cl
 
 </div>
 
-
-# 📁 Recommended Repository Structure
-
-
-Mayank830205/
-│
-├── README.md
-│
-├── resume.pdf
-│
-├── assets/
-│   │
-│   ├── banner.png
-│   ├── profile.png
-│   ├── hero-bg.png
-│   │
-│   ├── icons/
-│   │     ├── python.svg
-│   │     ├── aws.svg
-│   │     └── sql.svg
-│   │
-│   └── projects/
-│         ├── earthquake.png
-│         ├── covid-etl.png
-│         ├── shopkart.png
-│         ├── road-analysis.png
-│         ├── ai-chef.png
-│         └── weather-api.png
-│
-├── .github/
-│     └── workflows/
-│            └── snake.yml
-│
-└── LICENSE
-
-
----
 
