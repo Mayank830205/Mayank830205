@@ -46,7 +46,6 @@
 
 # 💫 About Me
 
-```yaml
 Name: Mayank Shringi
 
 Role:
@@ -79,7 +78,7 @@ Career Objective:
   Build scalable cloud-native data pipelines
   that transform raw data into reliable,
   business-ready insights.
-````
+
 
 ---
 
@@ -164,9 +163,7 @@ I enjoy solving real-world business problems using **Python, SQL, AWS, Power BI,
 * Power BI dashboards
 * Open Source contributions
 
-```
-```
-```markdown
+
 ---
 
 # 🚀 Featured Projects
@@ -399,8 +396,6 @@ alt="Contribution Snake"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank830205&theme=tokyonight"/>
 
 </div>
-```
-````markdown
 ---
 
 # 🎯 Current Focus
@@ -423,7 +418,7 @@ alt="Contribution Snake"/>
 
 <div align="center">
 
-```text
+
 Python & SQL
       │
       ▼
@@ -446,7 +441,7 @@ Airflow & Orchestration
       │
       ▼
 Production Data Engineering
-```
+
 
 </div>
 
@@ -620,8 +615,7 @@ I'm always open to collaborating on exciting Data Engineering, Analytics, and Cl
 **Let's build reliable data systems together.**
 
 </div>
-````
-````markdown
+
 # 🐍 .github/workflows/snake.yml
 
 Create the following file:
@@ -630,7 +624,7 @@ Create the following file:
 
 Paste this code:
 
-```yaml
+
 name: Generate Snake Animation
 
 on:
@@ -667,13 +661,13 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+
 
 ---
 
 # 📁 Recommended Repository Structure
 
-```text
+
 Mayank830205/
 │
 ├── README.md
@@ -704,7 +698,7 @@ Mayank830205/
 │            └── snake.yml
 │
 └── LICENSE
-```
+
 
 ---
 
@@ -714,9 +708,7 @@ Mayank830205/
 
 Repository name must be:
 
-```
-Mayank830205
-```
+
 
 Make it **Public**.
 
@@ -726,12 +718,12 @@ Make it **Public**.
 
 Upload:
 
-```
+
 README.md
 resume.pdf
 assets/
 .github/
-```
+
 
 Commit changes.
 
@@ -741,7 +733,6 @@ Commit changes.
 
 Go to:
 
-```
 Repository
 ↓
 
@@ -754,13 +745,10 @@ Actions
 ↓
 
 General
-```
+
 
 Enable:
 
-```
-Allow all actions
-```
 
 Save.
 
@@ -770,7 +758,6 @@ Save.
 
 Open:
 
-```
 Actions
 ↓
 
@@ -779,7 +766,7 @@ Generate Snake Animation
 ↓
 
 Run Workflow
-```
+
 
 Wait 1–2 minutes.
 
@@ -805,9 +792,6 @@ GitHub will automatically create the **output** branch and your snake animation 
 
 Recommended Size
 
-```
-1600 × 500
-```
 
 PNG
 
@@ -823,13 +807,12 @@ Glassmorphism
 
 Recommended
 
-```
 2048 × 2048
 
 PNG
 
 Transparent background
-```
+
 
 ---
 
@@ -837,9 +820,9 @@ Transparent background
 
 Place your resume here:
 
-```
+
 resume.pdf
-```
+
 
 The download button in the README will automatically work.
 
