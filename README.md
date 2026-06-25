@@ -1,5 +1,3 @@
-# README.md — Part 1
-
 ````markdown
 <div align="center">
 
