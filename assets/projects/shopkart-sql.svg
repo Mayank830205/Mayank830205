@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+  <title id="title">ShopKart SQL Analytics</title>
+  <desc id="desc">Premium SQL analytics dashboard artwork.</desc>
+  <defs><linearGradient id="b3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d19"/><stop offset="1" stop-color="#101c36"/></linearGradient><linearGradient id="a3" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#4f8cff"/><stop offset="1" stop-color="#9a62ff"/></linearGradient></defs>
+  <rect width="640" height="320" rx="24" fill="url(#b3)"/>
+  <text x="48" y="62" fill="#f4f7ff" font-family="Segoe UI,Arial" font-size="26" font-weight="700">ShopKart SQL Analytics</text>
+  <text x="48" y="94" fill="#91a3c8" font-family="Segoe UI,Arial" font-size="15">REVENUE  ·  CUSTOMERS  ·  PRODUCT INSIGHTS</text>
+  <rect x="48" y="126" width="544" height="142" rx="18" fill="#0a1429" stroke="#273f70"/>
+  <g fill="#142443"><rect x="70" y="146" width="130" height="44" rx="10"/><rect x="216" y="146" width="130" height="44" rx="10"/><rect x="362" y="146" width="130" height="44" rx="10"/></g>
+  <path d="M75 239 134 211l48 13 62-47 59 28 70-44 58 37 76-39" fill="none" stroke="url(#a3)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#8fb1ff"><circle cx="134" cy="211" r="5"/><circle cx="244" cy="177" r="5"/><circle cx="373" cy="161" r="5"/><circle cx="507" cy="159" r="5"/></g>
+  <text x="82" y="174" fill="#dbe5ff" font-family="Segoe UI,Arial" font-size="18" font-weight="700">₹ Revenue</text><text x="230" y="174" fill="#dbe5ff" font-family="Segoe UI,Arial" font-size="18" font-weight="700">Orders</text><text x="376" y="174" fill="#dbe5ff" font-family="Segoe UI,Arial" font-size="18" font-weight="700">AOV</text>
+</svg>

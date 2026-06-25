@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+  <title id="title">Road Accident Analysis Dashboard</title>
+  <desc id="desc">Dark Power BI-inspired road safety dashboard.</desc>
+  <defs><linearGradient id="b4" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d19"/><stop offset="1" stop-color="#19142f"/></linearGradient></defs>
+  <rect width="640" height="320" rx="24" fill="url(#b4)"/>
+  <text x="48" y="62" fill="#f4f7ff" font-family="Segoe UI,Arial" font-size="26" font-weight="700">Road Accident Dashboard</text>
+  <text x="48" y="94" fill="#91a3c8" font-family="Segoe UI,Arial" font-size="15">POWER BI  ·  EXCEL  ·  ROAD SAFETY</text>
+  <rect x="48" y="126" width="252" height="148" rx="18" fill="#0b152b" stroke="#2a4273"/>
+  <path d="M115 262 160 140h30l45 122" fill="none" stroke="#527fff" stroke-width="10"/><path d="M175 151v25M175 194v25M175 237v22" stroke="#b6c8ff" stroke-width="5" stroke-linecap="round"/>
+  <g transform="translate(330 128)"><rect width="262" height="146" rx="18" fill="#0b152b" stroke="#2a4273"/><rect x="28" y="87" width="28" height="35" rx="5" fill="#425fbb"/><rect x="72" y="64" width="28" height="58" rx="5" fill="#567cff"/><rect x="116" y="33" width="28" height="89" rx="5" fill="#755eff"/><rect x="160" y="54" width="28" height="68" rx="5" fill="#8c68ed"/><rect x="204" y="77" width="28" height="45" rx="5" fill="#5f80df"/><path d="M25 122h210" stroke="#31476f"/></g>
+</svg>

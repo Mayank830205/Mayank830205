@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+  <title id="title">AWS S3 to DynamoDB ETL Pipeline</title>
+  <desc id="desc">Dark cloud ETL architecture diagram.</desc>
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070c18"/><stop offset="1" stop-color="#161330"/></linearGradient><filter id="g2"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect width="640" height="320" rx="24" fill="url(#bg2)"/>
+  <text x="48" y="62" fill="#f4f7ff" font-family="Segoe UI,Arial" font-size="26" font-weight="700">S3 → DynamoDB ETL Pipeline</text>
+  <text x="48" y="94" fill="#91a3c8" font-family="Segoe UI,Arial" font-size="15">SERVERLESS  ·  EVENT-DRIVEN  ·  AWS</text>
+  <g stroke="#7ca3ff" stroke-width="2" fill="#0c1833"><path d="M84 154h112v80H84z"/><rect x="264" y="142" width="112" height="104" rx="52"/><path d="M446 153c0-20 90-20 90 0v75c0 20-90 20-90 0z"/></g>
+  <g fill="none" stroke="#5f8cff" stroke-width="5" stroke-linecap="round" filter="url(#g2)"><path d="M196 194h68"/><path d="M376 194h70"/></g>
+  <g fill="#8e66ff"><path d="m248 183 16 11-16 11z"/><path d="m430 183 16 11-16 11z"/></g>
+  <path d="M110 179h59l-9 35h-41z" fill="#6d98ff"/><path d="M309 170h22v48h-22zM296 183h48v22h-48z" fill="#8f71ff"/>
+  <ellipse cx="491" cy="154" rx="45" ry="13" fill="#79a0ff"/><path d="M446 188c0 20 90 20 90 0M446 218c0 20 90 20 90 0" fill="none" stroke="#79a0ff" stroke-width="3"/>
+  <text x="113" y="270" fill="#7f95bd" font-family="Segoe UI,Arial" font-size="13">S3</text><text x="289" y="270" fill="#7f95bd" font-family="Segoe UI,Arial" font-size="13">LAMBDA</text><text x="457" y="270" fill="#7f95bd" font-family="Segoe UI,Arial" font-size="13">DYNAMODB</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+  <title id="title">Earthquake Data Quality Pipeline</title>
+  <desc id="desc">Dark blue data pipeline artwork with validation stages.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d1a"/><stop offset="1" stop-color="#111b39"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4f8cff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="640" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="548" cy="58" r="90" fill="#3157ff" opacity=".10"/>
+  <path d="M66 176H568" stroke="url(#line)" stroke-width="5" stroke-linecap="round" filter="url(#glow)"/>
+  <g fill="#0b142b" stroke="#6e9cff" stroke-width="2">
+    <rect x="66" y="133" width="92" height="86" rx="18"/><rect x="274" y="133" width="92" height="86" rx="18"/><rect x="476" y="133" width="92" height="86" rx="18"/>
+  </g>
+  <g fill="#8fb1ff"><circle cx="112" cy="176" r="13"/><path d="m105 176 5 5 10-12" fill="none" stroke="#061229" stroke-width="4"/><circle cx="320" cy="176" r="13"/><path d="m313 176 5 5 10-12" fill="none" stroke="#061229" stroke-width="4"/><circle cx="522" cy="176" r="13"/><path d="m515 176 5 5 10-12" fill="none" stroke="#061229" stroke-width="4"/></g>
+  <text x="48" y="62" fill="#f4f7ff" font-family="Segoe UI,Arial" font-size="26" font-weight="700">Earthquake Data Quality Pipeline</text>
+  <text x="48" y="94" fill="#91a3c8" font-family="Segoe UI,Arial" font-size="15">INGEST  ·  VALIDATE  ·  TRANSFORM</text>
+  <text x="88" y="248" fill="#7f95bd" font-family="Segoe UI,Arial" font-size="13">RAW</text><text x="285" y="248" fill="#7f95bd" font-family="Segoe UI,Arial" font-size="13">QUALITY</text><text x="491" y="248" fill="#7f95bd" font-family="Segoe UI,Arial" font-size="13">READY</text>
+</svg>

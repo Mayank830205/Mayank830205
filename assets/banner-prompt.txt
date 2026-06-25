@@ -1,0 +1,9 @@
+Use case: ads-marketing
+Asset type: ultra-wide GitHub profile README hero background, final target 2560 × 1440 PNG
+Primary request: Create a premium dark futuristic data engineering and analytics hero backdrop for Mayank Shringi’s professional GitHub profile.
+Scene/backdrop: near-black graphite environment with a restrained glassmorphism dashboard, subtle cloud architecture nodes, database cylinders, flowing ETL pipeline paths, SQL-like data grids, analytics charts, and a faint neural-network pattern.
+Style/medium: polished high-end SaaS landing page art, realistic 3D glass and luminous interface elements, inspired by refined modern developer tools without copying any brand.
+Composition/framing: 16:9 landscape; generous clean dark negative space across the left 48% for exact text to be added later; visual interest concentrated on the center-right and right edge; balanced at desktop and still legible when scaled down in a GitHub README.
+Lighting/mood: cinematic, sophisticated, calm; soft electric-blue glow and restrained violet ambient rim light; deep shadows and excellent contrast.
+Color palette: black, graphite, midnight blue, electric blue, muted violet; no bright multicolor accents.
+Constraints: background artwork only; no person because no portrait reference was supplied; no logos; no brand marks; no watermark; no text, letters, numbers, code snippets, pseudo-text, or illegible glyphs; no cartoon style; no rainbow gradients; no clutter; avoid oversized icons. Keep all edges clean and premium.
