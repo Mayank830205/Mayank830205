@@ -332,7 +332,7 @@ REST API built using Flask that fetches weather information and returns structur
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank830205&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Mayank830205&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 
@@ -547,7 +547,6 @@ Production Data Engineering
 
 <div align="center">
 
-> Upload your latest resume to this repository as `resume.pdf`.
 
 <a href="./resume.pdf">
 
